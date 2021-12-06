@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import headerBg from '../../../images/header-bg2.png'
-import resume from '../../../images/resume .pdf';
+import resume from '../../../images/resume.pdf';
 
 const Header = () => {
     return (

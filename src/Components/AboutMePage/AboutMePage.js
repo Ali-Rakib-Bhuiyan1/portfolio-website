@@ -1,7 +1,7 @@
 import React from 'react';
 import aboutMe from '../../images/about.png';
 import profile from '../../images/profile1.jpg';
-import resume from '../../images/resume .pdf';
+import resume from '../../images/resume.pdf';
 import facebook from '../../images/social-icons/fb.png';
 import linkedIn from '../../images/social-icons/linkedin.png';
 import github from '../../images/social-icons/github.png';
