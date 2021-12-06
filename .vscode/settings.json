@@ -1,0 +1,8 @@
+// {
+//     "git.defaultCloneDirectory": ""
+// }
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+    }
+ }
