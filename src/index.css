@@ -6,6 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.full{
+  background-color: #000;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -20,7 +23,7 @@ code {
   font-weight: 500;
 }
 .colored-letter{
-  color: rgb(6, 122, 6);
+  color: rgb(166, 221, 166);
 }
 .h-text{
   font-weight: 700;
@@ -184,18 +187,18 @@ code {
   border-radius: 50%;
 }
 .contact{
-  background-color: #000;
+  background-color:  #0a0b0a;;
 }
 .form{
   width: 80%;
  
 }
 .form input, .form textarea{
- background-color: #83f552;
+ background-color:  hsl(210, 6%, 88%);;
  opacity: 0.6;
 }
 .send-sms{
-  border: 2px solid #4f9c2d;
+  border: 2px solid  #30312f;;
   background: none;
   padding: 10px 40px;
   color: white;
@@ -222,7 +225,7 @@ code {
   margin-top: -1px;
 }
 .address{
-  background-image: url(./images/about.png);
+  background-image: url("https://i.ibb.co/xXXSmbZ/pexels-negative-space-160107.jpg");
   background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-position: bottom center;
